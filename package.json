@@ -1,0 +1,15 @@
+{
+  "name": "wikkie-renderer-raze",
+  "version": "0.0.2",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "raze-tpl": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
